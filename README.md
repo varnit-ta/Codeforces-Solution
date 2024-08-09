@@ -1,0 +1,1 @@
+[1999E Triple Operations](https://codeforces.com/problemset/problem/1999/E)
