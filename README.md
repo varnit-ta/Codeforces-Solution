@@ -1,3 +1,5 @@
 - [1999E Triple Operations](https://codeforces.com/problemset/problem/1999/E)
 - [1995B1 Bouquet (Easy Version)](https://codeforces.com/problemset/problem/1995/B1)
 - [Find K Distinct Points with Fixed Center](https://codeforces.com/problemset/problem/1998/A)
+- [Distanced Coloring](https://codeforces.com/contest/2002/problem/A)
+- [Removals Game](https://codeforces.com/contest/2002/problem/B)
