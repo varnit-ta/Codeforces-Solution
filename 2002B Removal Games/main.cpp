@@ -1,6 +1,9 @@
+/*
+https://codeforces.com/problemset/problem/2002/B
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
- 
  
 int main() {
     ios::sync_with_stdio(false);
