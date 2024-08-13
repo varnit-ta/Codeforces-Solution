@@ -4,3 +4,6 @@
 - [2002A Distanced Coloring](https://codeforces.com/problemset/problem/2002/A)
 - [2002B Removal Games](https://codeforces.com/problemset/problem/2002/B)
 - [2002C Black Circles](https://codeforces.com/problemset/problem/2002/C)
+- [2000A Primary Task](https://codeforces.com/problemset/problem/2000/A)
+- [2000B Seating in a Bus](https://codeforces.com/problemset/problem/2000/B)
+- [2000B Seating in a Bus](https://codeforces.com/problemset/problem/2000/C)
