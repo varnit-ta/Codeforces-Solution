@@ -7,3 +7,4 @@
 - [2000A Primary Task](https://codeforces.com/problemset/problem/2000/A)
 - [2000B Seating in a Bus](https://codeforces.com/problemset/problem/2000/B)
 - [2000B Seating in a Bus](https://codeforces.com/problemset/problem/2000/C)
+- [2000E Photoshoot for Gorillas](https://codeforces.com/problemset/problem/2000/E)
