@@ -8,3 +8,6 @@
 - [2000B Seating in a Bus](https://codeforces.com/problemset/problem/2000/B)
 - [2000B Seating in a Bus](https://codeforces.com/problemset/problem/2000/C)
 - [2000E Photoshoot for Gorillas](https://codeforces.com/problemset/problem/2000/E)
+- [2004A Closest Point](https://codeforces.com/problemset/problem/2004/A)
+- [2004B Game with Doors](https://codeforces.com/problemset/problem/2004/B)
+-[2004C Splitting Items](https://codeforces.com/problemset/problem/2004/C)
